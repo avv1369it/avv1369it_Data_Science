@@ -37,3 +37,5 @@ def score_game(random_predict) ->int:
     print(f"Ваш алгоритм угадывает число в среднем за: {score} попыток")
     
 score_game(random_predict)
+
+# проверка работы с гитхаб

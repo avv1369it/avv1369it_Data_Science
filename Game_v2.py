@@ -38,4 +38,4 @@ def score_game(random_predict) ->int:
     
 score_game(random_predict)
 
-# проверка работы с гитхаб
+# проверка работы с гитхаб 2

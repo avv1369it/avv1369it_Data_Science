@@ -15,6 +15,6 @@ def random_predict (number: int=1) -> int:
 
 print(f"Количество попыток: {random_predict()}")
 
-# правепка работы с гитхаб 3
+# правепка работы с гитхаб 4
 
   

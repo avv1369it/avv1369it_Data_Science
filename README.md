@@ -11,6 +11,7 @@ SkillFactory Data-Science course my homework
 
 * [Проект - 1. Анализ резюме из HeadHunter](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_1)
 * [Проект - 2. Анализ вакансий из HeadHunter](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_2)
+* Проект - 3. EDA + Feature Engineering. Соревнование на Kaggle.
 
 ## Портфолио
 

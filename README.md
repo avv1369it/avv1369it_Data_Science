@@ -9,9 +9,12 @@ SkillFactory Data-Science course my homework
 
 ## Проекты
 
-* [Проект - 1. Анализ резюме из HeadHunter](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_1)
-* [Проект - 2. Анализ вакансий из HeadHunter](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_2)
-* Проект - 3. EDA + Feature Engineering. Соревнование на Kaggle.
+* [Проект - 1. Анализ резюме из HeadHunter](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_1);
+* [Проект - 2. Анализ вакансий из HeadHunter](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_2);
+* Проект - 3. EDA + Feature Engineering. Соревнование на Kaggle;
+* Проект - 4. ML - Задача класификации;
+* Проект - 5. ML - Задача регрессии;
+* Проект - 6. ML - Задача сегментации.
 
 ## Портфолио
 

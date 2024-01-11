@@ -14,7 +14,8 @@ SkillFactory Data-Science course my homework
 * [Проект - 3. EDA + Feature Engineering. Соревнование на Kaggle](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_3);
 * [Проект - 4. ML - Задача класификации](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_4);
 * [Проект - 5. ML - Задача регрессии](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_5);
-* [Проект - 6. ML - Задача сегментации](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_6).
+* [Проект - 6. ML - Задача сегментации](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_6);
+* Проект - 7. Итоговый проект 1 года обучения.
 
 ## Портфолио
 
